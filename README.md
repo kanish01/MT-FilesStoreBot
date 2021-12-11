@@ -18,7 +18,7 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
-**[Watch Deploying Tutorial...](https://youtu.be/RPs9vz_neXg)**
+**[update channel...](https://t.me/ottblasters)**
 
 <details><summary>Deploy To Heroku</summary>
 <p>
